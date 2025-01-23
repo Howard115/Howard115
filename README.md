@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<div align="center" style="border: 2px solid #333; border-radius: 16px; padding: 2px; background: rgba(29, 29, 29, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: 2px 0;">
+<div align="center" style="border: 2px solid #333; border-radius: 16px; padding: 2px; background: rgba(29, 29, 29, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin: -20px 0;">
 
 <span style="font-family: monospace; font-size: 20px;">Other Notable Projects</span>
 

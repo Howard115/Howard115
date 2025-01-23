@@ -8,11 +8,11 @@
 
 <span style="font-family: monospace; font-size: 20px;">Other Notable Projects</span>
 
-[![English Learning Material Generator](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=English-Learning-Material-Generator&theme=dark)](https://github.com/Howard115/English-Learning-Material-Generator)
+[![English Learning Material Generator](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=English-Learning-Material-Generator&theme=dark&width=5)](https://github.com/Howard115/English-Learning-Material-Generator)
 
-[![Color Gradient Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=color-gradient-sketch&theme=dark)](https://github.com/Howard115/color-gradient-sketch)
+[![Color Gradient Sketch](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=color-gradient-sketch&theme=dark&width=5)](https://github.com/Howard115/color-gradient-sketch)
 
-[![MultiPDF to Schema](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=multiPDF2schema&theme=dark)](https://github.com/Howard115/multiPDF2schema)
+[![MultiPDF to Schema](https://github-readme-stats.vercel.app/api/pin/?username=Howard115&repo=multiPDF2schema&theme=dark&width=5)](https://github.com/Howard115/multiPDF2schema)
 
 </div>
 
